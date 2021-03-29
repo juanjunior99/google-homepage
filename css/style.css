@@ -1,0 +1,42 @@
+#main {
+    background-color: #FFFFFF;
+}
+
+.content {
+    padding-bottom: 35px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header {
+    padding: 6px;
+    align-items: center;
+    color: black;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    display: flex;
+}
+
+.header-content {
+    height: 48px;
+}
+
+.header-group-1 {
+    float: right;
+}
+
+.header-group-2 {
+
+}
+
+a {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+    display: inline-block;
+}
+
+.logo-frame {
+    display: flex;
+}
